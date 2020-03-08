@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box1;
+    
+}
+.sections1{ background-color:white;
+    height: 43.33vh;
+    padding-left: 1rem;
+    color: ivory;
+    line-height: 1.8rem;
+    padding-top: 2rem;
+}
+.sections2{
+    background-color: rgb(13, 207, 214);
+    height: 33.33vh;
+    padding-left: 1rem;
+    color: white;
+    line-height: 2rem;
+    padding-top: 1rem;
+    
+}
+.sections3{
+    background-color: rgb(136, 243, 247);
+    height:33.33vh ;
+    padding-left: 1rem;
+    color:whitesmoke ;
+    padding-top: 1rem;
+    line-height: 1.3rem;
+}
+.button{
+    width: 15rem;
+    height: 3rem;
+    background-color: greenyellow;
+    border-radius: 6px;
+    text-align: center;
+}
+.gain{
+padding-top: 1rem;
+color: rgb(240, 236, 240);
+}
+.day{
+    padding-top: 1rem;
+    color: yellowgreen;
+}
+h2{
+    color:rgb(34, 177, 224);
+}
+.full{
+    padding-bottom: 1.5rem;
+}
+.per{
+    color:  rgb(43, 225, 231);
+    
+}
+.doller{
+    font-size:25px;
+}
+ .why{
+     padding-bottom: 1rem;
+     color: white;
+ }
